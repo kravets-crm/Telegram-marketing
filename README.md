@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=200&section=header&text=Daniil%20Kravets&fontSize=52&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Senior%20SMM%20Lead%20%E2%80%A2%20Telegram%20Marketing%20%E2%80%A2%20Warsaw&descAlignY=58&descSize=16&descColor=a8b2d8" />
 
 [![Telegram](https://img.shields.io/badge/Telegram-маркетинг-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kravets_crm)
-[![Medium](https://img.shields.io/badge/Medium-статьи-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
+[![Medium](https://img.shields.io/badge/Medium-статьи-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/telegram-marketing-by-daniil-kravets)
 [![Tumblr](https://img.shields.io/badge/Tumblr-посты-35465C?style=for-the-badge&logo=tumblr&logoColor=white)](https://www.tumblr.com/blog/kravetscrm)
 [![Hackmd](https://img.shields.io/badge/HackMD-заметки-14aaf5?style=for-the-badge&logo=hackmd&logoColor=white)](https://hackmd.io/@kravetscrm)
 [![Matters.town](https://img.shields.io/badge/Matter%20Town-комьюнити-0058CC?style=for-the-badge&logo=mattermost&logoColor=white)](https://matters.town/@kravetscrm)
@@ -48,10 +48,10 @@ LANGUAGE_LEARNING="польский (для нетворкинга)"
 📁 Telegram-marketing/
 ├── 📄 README.md              ← ты здесь
 ├── 📁 posts/
-│   ├── 📁 belarus/           ← белорусские номера, кейсы
-│   ├── 📁 telegram/          ← Telegram-маркетинг, каналы
-│   └── 📁 antifrod/          ← антифрод, траст-фактор, безопасность
-└── 📁 templates/             ← шаблоны и чеклисты
+│   ├── 📁 belarus/           
+│   ├── 📁 telegram/          
+│   └── 📁 antifrod/          
+└── 📁 templates/             
 ```
 
 ---
@@ -60,7 +60,7 @@ LANGUAGE_LEARNING="польский (для нетворкинга)"
 
 | # | Название | Тема | Аудитория | Площадка | Дата |
 |---|----------|------|-----------|----------|------|
-| 001 | [Купить белорусский номер: что нужно знать в 2026](posts/belarus/001-belarus-number-guide.md) | Белорусские номера | 👤 Обычный пользователь | Telegram | 05.06.2026 |
+
 
 > Таблица обновляется с каждым новым постом.
 
