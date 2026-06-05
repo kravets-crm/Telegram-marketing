@@ -3,9 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=200&section=header&text=Daniil%20Kravets&fontSize=52&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Senior%20SMM%20Lead%20%E2%80%A2%20Telegram%20Marketing%20%E2%80%A2%20Warsaw&descAlignY=58&descSize=16&descColor=a8b2d8" />
 
 [![Telegram](https://img.shields.io/badge/Telegram-маркетинг-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/](https://t.me/kravets_crm))
+[![Telegram](https://img.shields.io/badge/Telegram-маркетинг-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 [![Experience](https://img.shields.io/badge/Опыт-6%20лет-e94560?style=for-the-badge&logo=clockify&logoColor=white)]()
 [![Location](https://img.shields.io/badge/Локация-Варшава%20🇵🇱-0f3460?style=for-the-badge)]()
 [![Clients](https://img.shields.io/badge/Клиенты-UA%20%26%20EU%20бренды-16213e?style=for-the-badge)]()
+[![Medium](https://img.shields.io/badge/Medium-статьи-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
+[![Tumblr](https://img.shields.io/badge/Tumblr-посты-35465C?style=for-the-badge&logo=tumblr&logoColor=white)](https://tumblr.com/)
+[![Hackmd](https://img.shields.io/badge/HackMD-заметки-14aaf5?style=for-the-badge&logo=hackmd&logoColor=white)](https://hackmd.io/)
+[![Mattermost](https://img.shields.io/badge/Matter%20Town-комьюнити-0058CC?style=for-the-badge&logo=mattermost&logoColor=white)](https://mattermost.com/)
 
 </div>
 
