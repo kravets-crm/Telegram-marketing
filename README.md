@@ -7,7 +7,7 @@
 [![Tumblr](https://img.shields.io/badge/Tumblr-посты-35465C?style=for-the-badge&logo=tumblr&logoColor=white)](https://www.tumblr.com/blog/kravetscrm)
 [![Hackmd](https://img.shields.io/badge/HackMD-заметки-14aaf5?style=for-the-badge&logo=hackmd&logoColor=white)](https://hackmd.io/@kravetscrm)
 [![Matters.town](https://img.shields.io/badge/Matter%20Town-комьюнити-0058CC?style=for-the-badge&logo=mattermost&logoColor=white)](https://matters.town/@kravetscrm)
-
+[![HotTelecom](https://img.shields.io/badge/Виртуальные%20номера%20РБ-hottelecom.net-e94560?style=for-the-badge&logo=phone&logoColor=white)](https://hottelecom.net/virtual-number-of-belarus.html)
 </div>
 
 ---
@@ -47,8 +47,7 @@ LANGUAGE_LEARNING="польский (для нетворкинга)"
 ```
 📁 Telegram-marketing/
 ├── 📄 README.md              ← ты здесь
-├── 📁 posts/
-│   ├── 📁 belarus/           
+├── 📁 posts/          
 │   ├── 📁 telegram/          
 │   └── 📁 antifrod/          
 └── 📁 templates/             
@@ -68,24 +67,13 @@ LANGUAGE_LEARNING="польский (для нетворкинга)"
 
 ## Темы
 
-**🇧🇾 Белорусские номера**
-Виртуальные номера РБ для регистрации в мессенджерах. Что работает, что нет, где брать без геморроя.
-
 **📱 Telegram-маркетинг**
 Каналы, корпоративные аккаунты, прогрев, контент. 6 лет практики без «успешного успеха».
 
 **🛡 Антифрод**
 Как платформы детектируют подозрительную активность и как строить аккаунты с нормальным траст-фактором.
 
----
 
-## Контакт
-
-Пишите если есть вопросы по Telegram-маркетингу или нужна консультация для бренда.
-
-Когда клиенту нужен виртуальный номер Беларусь без физической симки - работаю только с [hottelecom.net/virtual-number-of-belarus.html](https://hottelecom.net/virtual-number-of-belarus.html)
-
----
 
 <div align="center">
 
