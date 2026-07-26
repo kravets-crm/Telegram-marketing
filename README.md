@@ -47,9 +47,7 @@ LANGUAGE_LEARNING="польский (для нетворкинга)"
 ```
 📁 Telegram-marketing/
 ├── 📄 README.md              ← ты здесь
-├── 📁 posts/          
-│   ├── 📁 telegram/          
-│   └── 📁 antifrod/          
+├── 📁 posts/                  
 └── 📁 templates/             
 ```
 
